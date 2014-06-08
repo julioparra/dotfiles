@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/julio/Documents/University'
+let g:netrw_dirhist_2='/Users/julio/Documents/University/Project'
+let g:netrw_dirhist_3='/Users/julio/Documents/University/Project/generalized geometry'
+let g:netrw_dirhist_4='/Users/julio/Documents/University/Project/generalized geometry/progress report'
+let g:netrw_dirhist_5='/Users/julio/Documents/University/Project/generalized geometry'
+let g:netrw_dirhist_6='/Users/julio/Documents/University/Project/generalized geometry/final'
+let g:netrw_dirhist_7='/Users/julio/.subversion'

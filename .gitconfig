@@ -1,0 +1,5 @@
+[user]
+	name = JulioParra
+	mail = julio.parra@me.com
+[credential]
+	helper = osxkeychain
