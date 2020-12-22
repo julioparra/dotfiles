@@ -5,7 +5,7 @@ filetype plugin indent on	" load file type plugins + indentation
 set nocompatible		" choose no compatibility with legacy vi
 
 "powerline
-source /usr/local/lib/python2.7/site-packages/powerline/bindings/vim/plugin/powerline.vim
+source /Users/julio/.local/lib/python3.8/site-packages/powerline/bindings/vim/plugin/powerline.vim
 set laststatus=2
 
 let mapleader=","
@@ -15,8 +15,10 @@ set wrap
 
 syntax on 
 color termschool
+"color codeschool
 
-set guifont=Monaco\ for\ Powerline:h12
+"set guifont=Monaco\ for\ Powerline:h12
+set guifont=Hack:h12
 set ruler
 set number
 set linebreak
